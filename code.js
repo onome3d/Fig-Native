@@ -214,4 +214,3 @@ function generateAndSendReactNativeCode(selection) {
     figma.ui.postMessage({type: 'reactNativeCode', data: reactNativeCode});
 
 }
-
